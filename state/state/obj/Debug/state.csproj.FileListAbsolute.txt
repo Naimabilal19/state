@@ -1,0 +1,2 @@
+C:\Users\naima\source\repos\state\state\obj\Debug\state.csproj.AssemblyReference.cache
+C:\Users\naima\source\repos\state\state\obj\Debug\state.csproj.CoreCompileInputs.cache
